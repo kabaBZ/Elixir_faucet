@@ -1,6 +1,17 @@
 # Elixir_faucet
 Elixir测试网领水脚本
 
+## 使用方法
+
+填写地址和私钥
+
+本地安装python
+
+安装python依赖
+``pip install web3``
+
+python运行脚本
+
 ## 特别声明
 
 - 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
